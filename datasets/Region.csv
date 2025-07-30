@@ -1,0 +1,9 @@
+﻿Nom du champs;Type de données;Taille;Contrainte;Description
+code_postal;CHAR;10;Clé primaire;Code commune (referentiel-geographique-francais, source www.data.gouv.fr)
+reg_code;CHAR;10;;Code région 
+reg_nom;CHAR;25;;Libellé région
+aca_nom;CHAR;25;;Libellé de l'académie
+dep_nom;CHAR;25;;Libellé du département
+com_nom_maj;CHAR;25;;Libellé de la commune en majuscule
+dep_code;CHAR;10;;Code département
+dep_nom_num;CHAR;25;;Libellé du département et code
