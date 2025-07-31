@@ -8,10 +8,8 @@ Dans le cadre de ce projet, nous disposerons de 2 bases de données, Contrat et 
 
 ## 📂 Contenu
 
-- `contrat/` : base de données des contrats actifs au format CSV
-- `region/` : base de données géographique au format CSV
-- `requetes/` : ensemble des requêtes SQL (une par question)
-- `analyse.md` : réflexions tirées des résultats (facultatif)
+- `datasets/` : contient nos bases de données de "contrat" et notre base géographique "region" au format CSV. Y Figure également la base .sql et le dictionnaire de données.
+- `requetes/` : ensemble des requêtes SQL répondant à des problématiques business précises.
 
 ## 🛠️ Stack
 
