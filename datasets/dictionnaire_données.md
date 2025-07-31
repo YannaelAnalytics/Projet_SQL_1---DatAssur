@@ -17,7 +17,7 @@
 | `occupation`              | CHAR | 15     |              | Type d'occupation (Locataire ou Propriétaire)                                    |
 | `type_contrat`            | CHAR | 25     |              | Type de contrat (Residence principale, secondaire ou mise en location)           |
 | `formule`                 | CHAR | 10     |              | Type de formule choisi par l'assuré (Integral ou Classique)                      |
-| `valeur_declare_mobilier` | CHAR | 25     |              | Montant biens déclarés par l'assuré                                              |
+| `valeur_declaree_biens`   | CHAR | 25     |              | Montant biens déclarés par l'assuré                                              |
 | `prix_cotisation_mensuel` | INT  | 10     |              | Montant cotisation mensuelle client                                              |
 
 ---
