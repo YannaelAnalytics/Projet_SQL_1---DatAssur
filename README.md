@@ -8,7 +8,7 @@ Dans le cadre de ce projet, nous disposerons de 2 bases de données, Contrat et 
 
 ## 📂 Contenu
 
-- `datasets/` : contient nos bases de données de "contrat" et notre base géographique "region" au format CSV. Y Figure également la base .sql et le dictionnaire de données.
+- `datasets/` : contient nos bases de données de "contrat" et notre base géographique "region" au format CSV. Y figurent également la base .sql et le dictionnaire de données.
 - `requetes/` : ensemble des requêtes SQL répondant à des problématiques business précises.
 
 ## 🛠️ Stack
